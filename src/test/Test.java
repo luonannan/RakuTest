@@ -9,7 +9,7 @@ public class Test {
          //输出打印字符语句
 
         System.out.println("HelloWorld！");
-
+  
     }
 
 }
