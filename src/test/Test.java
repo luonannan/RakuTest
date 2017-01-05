@@ -6,10 +6,10 @@ public class Test {
     public static void main(String args[])
 
     {
-         //输出打印字符语句
+         //输出打印字符语句222
 
         System.out.println("HelloWorld！");
-  
+
     }
 
 }
