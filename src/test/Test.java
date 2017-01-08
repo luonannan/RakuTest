@@ -12,7 +12,6 @@ public class Test {
          //输出打印字符语句222333444 aaa１９４６1111222333最新２234最新２最新２最新２最新２最新２最新4BJTビジネス日本語能力テスト
          //XXX
 
-
     	 //updated by Raku 001
         System.out.println("HelloWorld！");
 
