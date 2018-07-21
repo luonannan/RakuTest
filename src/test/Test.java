@@ -1,7 +1,7 @@
-package test;
+﻿package test;
 
 public class Test {
-    //程序的主函数入门
+    //程序的主函数入门123
 
     public static void main(String args[])
 
