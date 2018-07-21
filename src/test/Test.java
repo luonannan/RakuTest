@@ -7,7 +7,7 @@ public class Test {
     public static void main(String args[])
 
     {
-         //输出打印字符语句222333444 aaa１９４６
+         //输出打印字符语句222333444 aaa１９４６2018
     	 //updated by Raku 001
         System.out.println("HelloWorld！");
 
