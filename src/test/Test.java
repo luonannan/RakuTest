@@ -6,13 +6,13 @@ public class Test {
     public static void main(String args[])
 
     {
-
+334455566777888999
 
          //输出打印字符语句222333444 aaa１９４６1111222333最新２234最新２最新２最新２最新２最新２最新4WWWWBBBＣＣＣ
 
          //输出打印字符语句222333444 aaa１９４６1111222333最新２234最新２最新２最新２最新２最新２最新4BJTビジネス日本語能力テスト
          //XXXY AAAA 2017/1/9
-
+コメント20250304
     	 //updated by Raku 001
     	//updated by Raku 002
     	//updated by Raku 003
