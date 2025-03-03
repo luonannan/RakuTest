@@ -1,24 +1,22 @@
-﻿package test;
+package test;
 
 public class Test {
-    //程序的主函数入门1234567890
+    //�����I�唟����?1234567890
 
     public static void main(String args[])
 
     {
+XYZ1234
 
-
-         //输出打印字符语句222333444 aaa１９４６1111222333最新２234最新２最新２最新２最新２最新２最新4WWWWBBBＣＣＣ
-
-         //输出打印字符语句222333444 aaa１９４６1111222333最新２234最新２最新２最新２最新２最新２最新4BJTビジネス日本語能力テスト
+         //?�o�ň󎚕�?��222333444 aaa�P�X�S�U1111222333�ŐV�Q234�ŐV�Q�ŐV�Q�ŐV�Q�ŐV�Q�ŐV�Q�ŐV4BJT�r�W�l�X���{��\�̓e�X�g
          //XXXY AAAA 2017/1/9
-
+コメント20250304
     	 //updated by Raku 001
     	//updated by Raku 002
     	//updated by Raku 003
     	//updated by Raku 004
     	//updated by 005567
-        System.out.println("HelloWorld！");
+        System.out.println("HelloWorld�I");
 
     }
 
