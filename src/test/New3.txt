@@ -1,0 +1,11 @@
+ーーーーーーーーーーーーーーーーーーーーーーー
+TEST PROJECT
+ーーーーーーーーーーーーーーーーーーーーーーー
+qqqq
+bbbb
+cccc
+1231231
+8888
+comment Raku 2025/02/02
+comment Raku 2025/02/02_2
+
