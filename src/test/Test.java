@@ -10,7 +10,7 @@ public class Test {
     	 //updated by Raku 001
 
         System.out.println("HelloWorld！");
-
+System.out.println("HelloWorld2！");
     }
 
 }
